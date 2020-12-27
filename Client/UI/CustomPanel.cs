@@ -18,7 +18,7 @@ namespace PlayerIncomeStats.Client.UI
         private float maxIncomeSWidth;
         private float maxTempIncomeSWidth;
         private Point oldMousePos;
-        private bool show = true;
+        private bool show = false;
         private string tempIncomeSumS;
         private float tempIncomeXOffset = 20;
         private bool translateMode;
